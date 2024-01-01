@@ -1,0 +1,14 @@
+#
+*.a
+*.o
+*.lib
+*.obj
+*.err
+*.bin
+*.com
+*.cmd
+*.exe
+*.lst
+*.map
+*.sym
+
